@@ -1,12 +1,11 @@
-<h2>Projrto Mario Bross (Site criado para agendamento de serviços)</h2>
+<h2>Projeto Mario Bross (Site criado para agendamento de serviços.)</h2>
 <br>
 <p>Projeto desenvolvido com as ferramentas:</p>
 <p>-HTML</p>
 <p>-CSS</p>
 <p>-JAVASCRIPT</p>
 <br>
-<></p>
+<p>Também foi desenvolvido a parte de responsividade do site.</p>
 <br>
-<br>
-<br>
-<img src=""
+
+<img src="https://github.com/EvertonM-hub/Mario-Bross/blob/master/assets/logo.png?raw=true">
